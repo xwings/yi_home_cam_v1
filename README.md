@@ -515,10 +515,9 @@ WATCHDOG @Hi3518v200
 ```
 
 ## Part II: Taking over the flash ROM
-
-![alt text](https://raw.githubusercontent.com/xwings/tuya/master/yi_home_cam_v1_720p/bpxy00.jpeg)
-![alt text](https://raw.githubusercontent.com/xwings/tuya/master/yi_home_cam_v1_720p/bpxy01.jpeg)
-![alt text](https://raw.githubusercontent.com/xwings/tuya/master/yi_home_cam_v1_720p/bpxy02.jpeg)
+![alt text](https://github.com/xwings/yi_home_cam_v1/raw/master/bpxy00.jpeg)
+![alt text](https://github.com/xwings/yi_home_cam_v1/raw/master/bpxy01.jpeg)
+![alt text](https://github.com/xwings/yi_home_cam_v1/raw/master/bpxy02.jpeg)
 
 
 ## Taking Partition Notes
